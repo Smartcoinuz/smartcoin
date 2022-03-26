@@ -1,0 +1,2 @@
+# smartcoin
+website
